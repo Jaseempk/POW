@@ -61,7 +61,7 @@ export default function LoginPage() {
                 }`}
               >
                 <Building2 className="h-6 w-6 mr-2" />
-                <span>Company Admin</span>
+                <span>Privileged User</span>
               </button>
 
               <button
